@@ -1,0 +1,80 @@
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Form1.resources
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.exe
+C:\Users\Pc\source\repos\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.deps.json
+C:\Users\Pc\source\repos\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.runtimeconfig.json
+C:\Users\Pc\source\repos\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.dll
+C:\Users\Pc\source\repos\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.pdb
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.dll
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\refint\Gestion Escolar.dll
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.pdb
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.genruntimeconfig.cache
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\ref\Gestion Escolar.dll
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Form2.resources
+C:\Users\Pc\source\repos\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.GestiondeCursos.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.AssemblyReference.cache
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.ActualizarLista.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Form1.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Form2.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.GestiondeCursos.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.gestionProfesores.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Properties.Resources.resources
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.GenerateResource.cache
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.AssemblyInfoInputs.cache
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.AssemblyInfo.cs
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.dll
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\refint\Gestion Escolar.dll
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.pdb
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.exe
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.deps.json
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.runtimeconfig.json
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.dll
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.pdb
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.genruntimeconfig.cache
+C:\Users\Gonzalez\Desktop\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\ref\Gestion Escolar.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.exe
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.deps.json
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.runtimeconfig.json
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Gestion Escolar.pdb
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Enums.NET.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\NPOI.Core.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.AssemblyReference.cache
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.ResolveComReference.cache
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.ActualizarLista.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Form1.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Form2.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.GestiondeCursos.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.gestionEstudiantes.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.gestionProfesores.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion_Escolar.Properties.Resources.resources
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.GenerateResource.cache
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.AssemblyInfoInputs.cache
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.AssemblyInfo.cs
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.csproj.CopyComplete
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\refint\Gestion Escolar.dll
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.pdb
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\Gestion Escolar.genruntimeconfig.cache
+C:\Users\Ces\Downloads\Gestion Escolar\Gestion Escolar\obj\Debug\net6.0-windows\ref\Gestion Escolar.dll
